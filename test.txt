@@ -1,1 +1,1 @@
-var a = test3
+var a = test1
